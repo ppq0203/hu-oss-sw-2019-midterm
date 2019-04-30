@@ -3,11 +3,11 @@ My PBL contribution list
 
 | Issue                    | Link.   | Pull Request |
 |--------------------------|---------|--------------|
-|¸Â¾Æµµ Ã¼·ÂÀÌ ´ÞÁö¾Ê´Â ¹ö±×¼öÁ¤   | [#428](https://github.com/inureyes/gradios/issues/428) | https://github.com/inureyes/gradios/pull/429|
-|ÀÌ¸§ Ãß°¡ | [#21](https://github.com/inureyes/gradios/issues/21) | https://github.com/inureyes/gradios/pull/89|
-|ÇÏÆ®°¡ ¿ÞÂÊÀ¸·Î »ý±â´Â ¹ö±× ¼öÁ¤ | [#340](https://github.com/inureyes/gradios/issues/340) | https://github.com/inureyes/gradios/pull/426|
-|¸ÞÀÎ¸Þ´º¿¡ Á¶ÀÛ¹ý Ãß°¡ | [#430](https://github.com/inureyes/gradios/issues/430) | https://github.com/inureyes/gradios/pull/406|
-|ÇÏÆ®°¡ ¿ÞÂÊÀ¸·Î »ý±â´Â ¹ö±× ¼öÁ¤ | [#340](https://github.com/inureyes/gradios/issues/340) | https://github.com/inureyes/gradios/pull/426|
+|ï¿½Â¾Æµï¿½ Ã¼ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ê´ï¿½ ï¿½ï¿½ï¿½×¼ï¿½ï¿½ï¿½   | [#428](https://github.com/inureyes/gradios/issues/428) | https://github.com/inureyes/gradios/pull/429|
+|ï¿½Ì¸ï¿½ ï¿½ß°ï¿½ | [#21](https://github.com/inureyes/gradios/issues/21) | https://github.com/inureyes/gradios/pull/89|
+|ï¿½ï¿½ï¿½Î¸Þ´ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Û¹ï¿½ ï¿½ß°ï¿½ | [#430](https://github.com/inureyes/gradios/issues/430) | https://github.com/inureyes/gradios/pull/406|
+|ï¿½ï¿½Æ®ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ | [#340](https://github.com/inureyes/gradios/issues/340) | https://github.com/inureyes/gradios/pull/426|
+|ï¿½ï¿½Æ®ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ | [#340](https://github.com/inureyes/gradios/issues/340) | https://github.com/inureyes/gradios/pull/426|
 
 Idea for project
 =============
